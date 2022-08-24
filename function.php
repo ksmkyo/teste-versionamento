@@ -12,3 +12,7 @@ function get_site_title(){
 function get_class_body($page) {
     return $page;
 }
+function say_age($var = "17"){
+    echo $var;
+}
+
